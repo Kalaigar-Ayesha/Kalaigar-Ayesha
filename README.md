@@ -9,53 +9,55 @@ cloud infrastructure.
 
 <p align="left">
 
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-width="55" height="55" alt="AWS"/>
-</a>
+<img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS" />
 
-<a href="https://www.terraform.io/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
-width="55" height="55" alt="Terraform"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cloudflare" width="55" height="55" alt="Cloudflare" />
 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-width="55" height="55" alt="Docker"/>
-</a>
+<img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform" />
 
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-width="55" height="55" alt="Kubernetes"/>
-</a>
+<img src="https://skillicons.dev/icons?i=ansible" width="55" height="55" alt="Ansible" />
 
-<a href="https://github.com/features/actions" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-width="55" height="55" alt="GitHub"/>
-</a>
+<img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
 
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-width="55" height="55" alt="Linux"/>
-</a>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" alt="Kubernetes" />
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-width="55" height="55" alt="Python"/>
-</a>
+<img src="https://skillicons.dev/icons?i=helm" width="55" height="55" alt="Helm" />
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-width="55" height="55" alt="Bash"/>
-</a>
+<img src="https://skillicons.dev/icons?i=argocd" width="55" height="55" alt="ArgoCD" />
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-width="55" height="55" alt="Git"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+
+<img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+
+<img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="GitHub Actions" />
+
+<img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
+
+<img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Bash" />
+
+<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
+
+<img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus" />
+
+<img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana" />
 
 </p>
+### 🔐 Security & Observability
 
-## 📫 Connect With Me
+<p align="left">
 
-[LinkedIn](https://www.linkedin.com/in/kalaigarayesha/)
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+
+<img src="https://img.shields.io/badge/Gitleaks-000000?style=for-the-badge&logo=git&logoColor=white" alt="Gitleaks" />
+
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+
+<img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
+
+<img src="https://img.shields.io/badge/Sealed%20Secrets-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Sealed Secrets" />
+
+<img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" alt="Loki" />
+
+<img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black" alt="Jaeger" />
+
+</p>
