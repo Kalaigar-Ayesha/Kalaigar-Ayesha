@@ -2,62 +2,59 @@
 
 ### DevOps & Cloud Engineer
 
-I build and automate cloud infrastructure, CI/CD pipelines,
-and containerized applications.
+I'm a DevOps & Cloud Engineer focused on building, automating, and managing
+cloud infrastructure.
 
----
+## 🛠️ Language and Tools
 
-## 🛠️ Technologies
+<p align="left">
 
-### Cloud
-AWS
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+width="55" height="55" alt="AWS"/>
+</a>
 
-### Infrastructure as Code
-Terraform
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
+width="55" height="55" alt="Terraform"/>
+</a>
 
-### Containers
-Docker
-Kubernetes
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+width="55" height="55" alt="Docker"/>
+</a>
 
-### CI/CD
-GitHub Actions
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+width="55" height="55" alt="Kubernetes"/>
+</a>
 
-### Systems
-Linux
-Bash
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+width="55" height="55" alt="GitHub"/>
+</a>
 
-### Programming
-Python
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+width="55" height="55" alt="Linux"/>
+</a>
 
----
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="55" height="55" alt="Python"/>
+</a>
 
-## 🚀 Featured Projects
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+width="55" height="55" alt="Bash"/>
+</a>
 
-### ☁️ AWS Infrastructure with Terraform
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+width="55" height="55" alt="Git"/>
+</a>
 
-Infrastructure as Code project demonstrating AWS infrastructure
-provisioning using Terraform.
-
-### 🔄 CI/CD Pipeline
-
-Automated build, test, and deployment pipeline using
-GitHub Actions and Docker.
-
-### ☸️ Kubernetes Deployment
-
-Containerized application deployed using Kubernetes.
-
----
-
-## 📚 Currently Learning
-
-- Kubernetes
-- AWS
-- Terraform
-- SRE
-- Observability
-
----
+</p>
 
 ## 📫 Connect With Me
 
