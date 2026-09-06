@@ -1,11 +1,11 @@
-# Hi, I'm Ayesha 👋
+# Hi, I'm Ayesha 
 
 ### DevOps & Cloud Engineer
 
 I'm a DevOps & Cloud Engineer focused on building, automating, and managing
 cloud infrastructure.
 
-## 🛠️ Language and Tools
+## Language and Tools
 
 <p align="left">
 
@@ -21,9 +21,9 @@ cloud infrastructure.
 
 <img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" alt="Kubernetes" />
 
-<img src="https://skillicons.dev/icons?i=helm" width="55" height="55" alt="Helm" />
+<img src="https://skillicons.dev/icons?i=helm&theme=light" width="55" height="55" alt="Helm" />
 
-<img src="https://skillicons.dev/icons?i=argocd" width="55" height="55" alt="ArgoCD" />
+<img src="https://skillicons.dev/icons?i=argocd&theme=light" width="55" height="55" alt="ArgoCD" />
 
 <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
 
@@ -42,7 +42,7 @@ cloud infrastructure.
 <img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana" />
 
 </p>
-### 🔐 Security & Observability
+Security & Observability
 
 <p align="left">
 
