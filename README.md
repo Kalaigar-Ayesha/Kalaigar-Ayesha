@@ -7,7 +7,9 @@ cloud infrastructure.
 ## Language and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,terraform,ansible,docker,kubernetes,helm,argocd,git,github,githubactions,python,bash,linux,prometheus,grafana&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,terraform,ansible,docker,kubernetes,helm,git,github,githubactions,python,bash,linux,prometheus,grafana,nginx&theme=light&perline=8" />
+  
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="55" alt="Argo CD" />
 </p>
 Security & Observability
 
